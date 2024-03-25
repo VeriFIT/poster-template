@@ -1,1 +1,4 @@
-# VUT FIT poster LaTeX template
+# VUT FIT poster template
+
+## Preview
+[Poster LaTeX template](poster.pdf)
